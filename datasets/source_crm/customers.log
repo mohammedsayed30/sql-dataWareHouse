@@ -1,0 +1,10 @@
+
+SQL*Loader: Release 23.0.0.0.0 - Production on Thu Jul 24 10:22:36 2025
+Version 23.6.0.24.10
+
+Copyright (c) 1982, 2024, Oracle and/or its affiliates.  All rights reserved.
+
+SQL*Loader-704: Internal error: uwlconnect: OCIServerAttach [0]
+ORA-12154: Cannot connect to database. Cannot find alias ETL in C:\app\moham\product\23ai\dbhomeFree\network\admin\tnsnames.ora.
+Help: https://docs.oracle.com/error-help/db/ora-12154/
+
